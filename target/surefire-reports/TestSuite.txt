@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 29.73 sec <<< FAILURE! - in TestSuite
+bing(gitTest.GitTest2)  Time elapsed: 14.96 sec  <<< FAILURE!
+java.lang.ArithmeticException: / by zero
+	at gitTest.GitTest2.bing(GitTest2.java:23)
+
+bing(gitTest.GitTest1)  Time elapsed: 13.581 sec  <<< FAILURE!
+java.lang.ArithmeticException: / by zero
+	at gitTest.GitTest1.bing(GitTest1.java:23)
+

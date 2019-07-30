@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="allsuite">
+  <test name="alltest">
+    <classes>
+      <class name="gitTest.GitTest2"/>
+      <class name="gitTest.GitTest1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
